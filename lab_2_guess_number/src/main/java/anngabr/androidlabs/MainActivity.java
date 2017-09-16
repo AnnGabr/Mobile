@@ -2,6 +2,7 @@ package anngabr.androidlabs;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Menu;
 import android.view.View;
 import android.widget.*;
 
@@ -51,5 +52,6 @@ public class MainActivity extends AppCompatActivity {
         catch (Exception ex){
             tvInfo.setText(R.string.error);
         }
+        etInput.setText(R.string.empty_string);
     }
 }

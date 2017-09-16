@@ -5,6 +5,7 @@
     <string name="hit">В точку!</string>
     <string name="input_value">Ввести значение</string>
     <string name="play_more">Сыграть ещё</string>
+    <string name="empty_string"></string>
     <string name="try_to_guess">Угадай число (1 &#8211; 100)</string>
     <string name="error">Неверный ввод!</string>
 </resources>
