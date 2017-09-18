@@ -4,8 +4,10 @@
     <string name="behind">Недолёт!</string>
     <string name="error">Неверный ввод!</string>
     <string name="hit">В точку!</string>
-    <string name="play_more">Ввести значение</string>
+    <string name="play_more">Играть!</string>
     <string name="ahead">Перелёт!</string>
-    <string name="try_to_guess">Попробуй угадать число(1 &#8211; 100)</string>
+    <string name="try_to_guess">Попробуй угадать число</string>
     <string name="input_value">Ввести число</string>
+    <string name="end_val">1000</string>
+    <string name="start_val">0</string>
 </resources>

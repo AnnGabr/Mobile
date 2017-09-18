@@ -3,9 +3,11 @@
     <string name="behind">Behind</string>
     <string name="ahead">Ahead</string>
     <string name="hit">Win!</string>
-    <string name="play_more">Restart</string>
+    <string name="play_more">Start</string>
     <string name="empty_string"></string>
     <string name="error">Wrong input!</string>
-    <string name="try_to_guess">Try to guess a number(1 &#8211; 100)</string>
+    <string name="try_to_guess">Try to guess a number</string>
     <string name="input_value">Input</string>
+    <string name="end_val">1000</string>
+    <string name="start_val">0</string>
 </resources>
