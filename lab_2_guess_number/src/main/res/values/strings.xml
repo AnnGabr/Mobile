@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">Угадай число!</string>
-    <string name="behind">Недолёт!</string>
-    <string name="ahead">Перелёт!</string>
-    <string name="hit">В точку!</string>
-    <string name="input_value">Ввести значение</string>
-    <string name="play_more">Сыграть ещё</string>
+    <string name="app_name">Guess number!</string>
+    <string name="behind">Behind</string>
+    <string name="ahead">Ahead</string>
+    <string name="hit">Win!</string>
+    <string name="play_more">Restart</string>
     <string name="empty_string"></string>
-    <string name="try_to_guess">Угадай число (1 &#8211; 100)</string>
-    <string name="error">Неверный ввод!</string>
+    <string name="error">Wrong input!</string>
+    <string name="try_to_guess">Try to guess a number(1 &#8211; 100)</string>
+    <string name="input_value">Input</string>
 </resources>
