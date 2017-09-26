@@ -4,11 +4,13 @@
     android:shape="oval" >
 
     <gradient
-        android:endColor="#ffff6600"
+        android:endColor="#CDB5CD"
         android:gradientRadius="150"
-        android:startColor="#ffffcc00"
+        android:startColor="#FFE1FF"
         android:type="radial"
-        android:useLevel="false" />
+        android:useLevel="false"
+        android:centerX="0.2"
+        android:centerY="0.2"/>
 
     <size
         android:height="150dp"

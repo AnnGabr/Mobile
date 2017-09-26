@@ -5,6 +5,10 @@
     android:interpolator="@android:anim/accelerate_decelerate_interpolator"
     android:shareInterpolator="false" >
 
+    <rotate
+        android:fromDegrees="0"
+        android:toDegrees="360" />
+
     <scale
         android:fromXScale="1.0"
         android:fromYScale="1.0"
@@ -13,12 +17,12 @@
         android:toXScale="1.5"
         android:toYScale="1.5" />
 
-    <translate
-        android:fromYDelta="80%p"
-        android:toYDelta="10%p" />
-
     <alpha
         android:fromAlpha="0.3"
         android:toAlpha="1.0" />
+
+    <translate
+        android:fromYDelta="80%p"
+        android:toYDelta="10%p" />
 
 </set>
