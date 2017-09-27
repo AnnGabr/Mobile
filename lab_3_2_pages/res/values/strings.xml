@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <string name="action_settings">Settings</string>
+    <string name="c1_title">Melissa</string>
+    <string name="c1_description">Main-kyn</string>
+    <string name="c2_title">Jack</string>
+    <string name="c2_description">Main-kyn</string>
+    <string name="c3_title">Bob</string>
+    <string name="c3_description">Main-kyn</string>
+    <string name="d1_title">Martin</string>
+    <string name="d1_description">Doberman</string>
+    <string name="d2_title">Margo</string>
+    <string name="d2_description">Greyhound</string>
+</resources>
